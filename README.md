@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello there 👋
 
+I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
+
+- 📄 I’m currently working on: [Python PCEP Study Quiz](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/b91c2e7351ee416599bb10e528b69134b5b1c6ae) aim is to make a practice quiz for anyone interested in preparing for the [PCEP](https://pythoninstitute.org/assets/627e61bc29de3989767095.pdf) exam @ [Python Institue](https://pythoninstitute.org/pcep)
+- 🧠 I’m currently learning: HTML & CSS
+- 🏠 I’m looking to: relocate to the DFW area in Texas
+  
 <!--
 **nathaniel-olguin/nathaniel-olguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
