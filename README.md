@@ -1,6 +1,6 @@
 # Nathaniel Joel Ray Olguin
 
-![hello there gif](https://tenor.com/view/star-wars-hello-there-hello-obi-wan-kenobi-gif-13903117)
+![hello there gif](assets/obi-hello-there.gif)
 
 ## About me:
 
