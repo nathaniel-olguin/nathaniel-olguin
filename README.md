@@ -1,4 +1,8 @@
-## Hello there 👋
+# Nathaniel Joel Ray Olguin
+
+![hello there gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhello-there-obi-wan-gifs&psig=AOvVaw0Hf-RKcD-zLKBC1Ww0UNe9&ust=1764169874971000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjNpozLjZEDFQAAAAAdAAAAABAj)
+
+## About me:
 
 I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
 
