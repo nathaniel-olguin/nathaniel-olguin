@@ -2,9 +2,9 @@
 
 I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
 
-- 📄 I’m currently working on:  [Python PCEP Study Quiz](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/82b4835fe7aa44d7dae8ed0d062693348d080e6e)  |  The aim is to make a practice quiz for anyone interested in preparing for the [PCEP](https://pythoninstitute.org/assets/627e61bc29de3989767095.pdf) exam @ [Python Institue](https://pythoninstitute.org/pcep)
+- 📄 I’m currently working on:  [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/33a5afc606dfc36cd47200b98897f3e242d92c72)  |  Working with APIs and requests module to provide a weather report based on users location. 
 
-- 🧠 I’m currently learning:  HTML & CSS
+- 🧠 I’m currently learning:  [HTML & CSS](https://github.com/nathaniel-olguin/html-css-portfolio)
 
 - 🏠 I’m looking to:  Relocate to the DFW area in Texas
 
