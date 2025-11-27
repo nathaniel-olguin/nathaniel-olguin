@@ -6,7 +6,9 @@
 
 I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
 
-- 📄 I’m currently working on:  [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/33a5afc606dfc36cd47200b98897f3e242d92c72)  |  Working with APIs and requests module to provide a weather report based on users location. 
+- 📄 I’m currently working on:  using the OS module in Python for a file organizer program
+
+- 🎉 Check out my most recently completed project:  [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/c2f6ecc50c6d570df49bc23afe5973c329d0f3ba)  |  Python project utilizing the requests module and APIs
 
 - 🧠 I’m currently learning:  [HTML & CSS](https://github.com/nathaniel-olguin/html-css-portfolio)
 
