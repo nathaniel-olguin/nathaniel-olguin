@@ -6,7 +6,7 @@
 
 I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
 
-- 📄 I’m currently working on:  using the OS module in Python for a file organizer program
+- 📄 I’m currently working on:  [Image File Organizer](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/ebdf0c1899802e8b3c648692338e4a1eef104556)  |  Python program utilizing the OS module to organize image files by types: png, jpg, svg, gif, etc.
 
 - 🎉 Check out my most recently completed project:  [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/c2f6ecc50c6d570df49bc23afe5973c329d0f3ba)  |  Python project utilizing the requests module and APIs
 
