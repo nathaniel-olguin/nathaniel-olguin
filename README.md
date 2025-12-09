@@ -39,6 +39,8 @@ I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertai
          ▪◉▪    I earned my PCEP certification after a short 65 days of studying and programming
         
          ▪◉▪    I enjoy Python programming
+
+         ▪◉▪    Check out my Notes: [Programming Notes & Guides](https://github.com/nathaniel-olguin/Programming-Notes-and-Guides)
   
 <!--
 **nathaniel-olguin/nathaniel-olguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
