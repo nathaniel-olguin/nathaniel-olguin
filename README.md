@@ -8,13 +8,13 @@ I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertai
 
 ◯ 📄 I’m currently working on:
 
-         ▪◉▪    Starting on a Python Program:  Daily Journal  |  Standard goals: I want to develop a program that is used as a daily diary type of program that saves and dates each entry, analyze word frequency, count number of words, & print results.  |  For my stretch goals:  Simple sentiment scoring, chart/graph the data, Create a JSON report, and build a tiny web interface.
+         ▪◉▪    Python Program:  [Daily Journal](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/tree/main/Journal%20AI%20Project)  |  Standard goals: I want to develop a program that is used as a daily diary type of program that saves and dates each entry, analyze word frequency, count number of words, & print results.  |  For my stretch goals:  Simple sentiment scoring, chart/graph the data, Create a JSON report, and build a tiny web interface.
          
          ▪◉▪    My studies of LINUX/BASH and HTML/CSS/JS
 
 ◯ 🎉 Check out my most recently completed projects:
 
-         ▪◉▪    [Automated File Type Organizer](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/6b4893fe77d717e039bef702aedf06eb84793207)  |  Python program utilizing the OS & SHUTIL module to organize image, audio, video, and text files by type.
+         ▪◉▪    [Automated File Type Organizer](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/tree/main/File%20Sorter%20Project)  |  Python program utilizing the OS & SHUTIL module to organize image, audio, video, and text files by type.
          
          ▪◉▪    [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/c2f6ecc50c6d570df49bc23afe5973c329d0f3ba)  |  Python project utilizing the REQUESTS  module and APIs
 
