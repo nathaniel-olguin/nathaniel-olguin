@@ -4,13 +4,13 @@
 
 ## About me:
 
-I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in Python and Devops!
+I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertainment Technologies (DET). Interested in becoming a Python developer or  Devops enginner!
 
 ◯ 📄 I’m currently working on:
 
          ▪◉▪    Python Program:  [Daily Journal](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/tree/main/Journal%20AI%20Project)  |  Standard goals: I want to develop a program that is used as a daily diary type of program that saves and dates each entry, analyze word frequency, count number of words, & print results.  |  For my stretch goals:  Simple sentiment scoring, chart/graph the data, Create a JSON report, and build a tiny web interface.
          
-         ▪◉▪    My studies of LINUX/BASH and HTML/CSS/JS
+         ▪◉▪    Local Web inventory/task manager:  [inventory-tasks App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/tree/main/Inventory-tasks%20App)   |   Main goal: This project is a lightweight internal web tool designed to improve efficiency in a warehouse or office environment. Allowing basic tracking of inventory levels and manage daily operational tasks in one simple dashboard.
 
 ◯ 🎉 Check out my most recently completed projects:
 
@@ -19,10 +19,10 @@ I am Nathaniel Olguin, an ACU grad with a bachelors in science, Digital Entertai
          ▪◉▪    [Weather App](https://github.com/nathaniel-olguin/Nathaniel-Olguin-Python-Porfolio/commit/c2f6ecc50c6d570df49bc23afe5973c329d0f3ba)  |  Python project utilizing the REQUESTS  module and APIs
 
 ◯ 🧠 I’m currently learning:  
-
-         ▪◉▪    [HTML  &  CSS](https://github.com/nathaniel-olguin/html-css-portfolio)
          
-         ▪◉▪    LINUX  &  BASH
+         ▪◉▪    LINUX/BASH
+         
+         ▪◉▪    Advanced Python Modules (pyqt6, FastAPI, Uvicorn, etc.)
 
 ◯ 🏠 I’m looking to:  
 
